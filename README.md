@@ -1,4 +1,4 @@
 # githubtut
 This is my first git repository
-<br>
+<br />
 Author: Satyajeet Pradhan
